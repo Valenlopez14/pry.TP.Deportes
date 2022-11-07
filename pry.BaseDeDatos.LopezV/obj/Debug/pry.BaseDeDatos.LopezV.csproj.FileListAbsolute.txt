@@ -1,0 +1,142 @@
+C:\Users\valen\OneDrive\Escritorio\Facultad\2do Semestre\Laboratorio de Programacion II\pry.BaseDeDatos.LopezV\bin\Debug\pry.BaseDeDatos.LopezV.exe.config
+C:\Users\valen\OneDrive\Escritorio\Facultad\2do Semestre\Laboratorio de Programacion II\pry.BaseDeDatos.LopezV\bin\Debug\pry.BaseDeDatos.LopezV.exe
+C:\Users\valen\OneDrive\Escritorio\Facultad\2do Semestre\Laboratorio de Programacion II\pry.BaseDeDatos.LopezV\bin\Debug\pry.BaseDeDatos.LopezV.pdb
+C:\Users\valen\OneDrive\Escritorio\Facultad\2do Semestre\Laboratorio de Programacion II\pry.BaseDeDatos.LopezV\obj\Debug\pry.BaseDeDatos.LopezV.csproj.AssemblyReference.cache
+C:\Users\valen\OneDrive\Escritorio\Facultad\2do Semestre\Laboratorio de Programacion II\pry.BaseDeDatos.LopezV\obj\Debug\pry.BaseDeDatos.LopezV.csproj.SuggestedBindingRedirects.cache
+C:\Users\valen\OneDrive\Escritorio\Facultad\2do Semestre\Laboratorio de Programacion II\pry.BaseDeDatos.LopezV\obj\Debug\pry.BaseDeDatos.LopezV.frmPrincipal.resources
+C:\Users\valen\OneDrive\Escritorio\Facultad\2do Semestre\Laboratorio de Programacion II\pry.BaseDeDatos.LopezV\obj\Debug\pry.BaseDeDatos.LopezV.Properties.Resources.resources
+C:\Users\valen\OneDrive\Escritorio\Facultad\2do Semestre\Laboratorio de Programacion II\pry.BaseDeDatos.LopezV\obj\Debug\pry.BaseDeDatos.LopezV.csproj.GenerateResource.cache
+C:\Users\valen\OneDrive\Escritorio\Facultad\2do Semestre\Laboratorio de Programacion II\pry.BaseDeDatos.LopezV\obj\Debug\pry.BaseDeDatos.LopezV.csproj.CoreCompileInputs.cache
+C:\Users\valen\OneDrive\Escritorio\Facultad\2do Semestre\Laboratorio de Programacion II\pry.BaseDeDatos.LopezV\obj\Debug\pry.BaseDeDatos.LopezV.exe
+C:\Users\valen\OneDrive\Escritorio\Facultad\2do Semestre\Laboratorio de Programacion II\pry.BaseDeDatos.LopezV\obj\Debug\pry.BaseDeDatos.LopezV.pdb
+C:\Users\valen\OneDrive\Escritorio\Facultad\2do Semestre\Laboratorio de Programacion II\pry.BaseDeDatos.LopezV\obj\Debug\pry.BaseDeDatos.LopezV.frmConsultaDeportista.resources
+C:\Users\valen\OneDrive\Escritorio\Facultad\2do Semestre\Laboratorio de Programacion II\pry.BaseDeDatos.LopezV\obj\Debug\pry.BaseDeDatos.LopezV.frmConsultaEntrenador.resources
+C:\Users\valen\OneDrive\Escritorio\Facultad\2do Semestre\Laboratorio de Programacion II\pry.BaseDeDatos.LopezV\obj\Debug\pry.BaseDeDatos.LopezV.frmRegistroDeportista.resources
+C:\Users\valen\OneDrive\Escritorio\Facultad\2do Semestre\Laboratorio de Programacion II\pry.BaseDeDatos.LopezV\obj\Debug\pry.BaseDeDatos.LopezV.frmRegistroEntrenador.resources
+C:\Users\valen\Source\Repos\pry.BaseDeDatos\pry.BaseDeDatos.LopezV\bin\Debug\pry.BaseDeDatos.LopezV.exe.config
+C:\Users\valen\Source\Repos\pry.BaseDeDatos\pry.BaseDeDatos.LopezV\bin\Debug\pry.BaseDeDatos.LopezV.exe
+C:\Users\valen\Source\Repos\pry.BaseDeDatos\pry.BaseDeDatos.LopezV\bin\Debug\pry.BaseDeDatos.LopezV.pdb
+C:\Users\valen\Source\Repos\pry.BaseDeDatos\pry.BaseDeDatos.LopezV\obj\Debug\pry.BaseDeDatos.LopezV.csproj.AssemblyReference.cache
+C:\Users\valen\Source\Repos\pry.BaseDeDatos\pry.BaseDeDatos.LopezV\obj\Debug\pry.BaseDeDatos.LopezV.csproj.SuggestedBindingRedirects.cache
+C:\Users\valen\Source\Repos\pry.BaseDeDatos\pry.BaseDeDatos.LopezV\obj\Debug\pry.BaseDeDatos.LopezV.frmConsultaDeportista.resources
+C:\Users\valen\Source\Repos\pry.BaseDeDatos\pry.BaseDeDatos.LopezV\obj\Debug\pry.BaseDeDatos.LopezV.frmConsultaEntrenador.resources
+C:\Users\valen\Source\Repos\pry.BaseDeDatos\pry.BaseDeDatos.LopezV\obj\Debug\pry.BaseDeDatos.LopezV.frmPrincipal.resources
+C:\Users\valen\Source\Repos\pry.BaseDeDatos\pry.BaseDeDatos.LopezV\obj\Debug\pry.BaseDeDatos.LopezV.frmRegistroDeportista.resources
+C:\Users\valen\Source\Repos\pry.BaseDeDatos\pry.BaseDeDatos.LopezV\obj\Debug\pry.BaseDeDatos.LopezV.frmRegistroEntrenador.resources
+C:\Users\valen\Source\Repos\pry.BaseDeDatos\pry.BaseDeDatos.LopezV\obj\Debug\pry.BaseDeDatos.LopezV.Properties.Resources.resources
+C:\Users\valen\Source\Repos\pry.BaseDeDatos\pry.BaseDeDatos.LopezV\obj\Debug\pry.BaseDeDatos.LopezV.csproj.GenerateResource.cache
+C:\Users\valen\Source\Repos\pry.BaseDeDatos\pry.BaseDeDatos.LopezV\obj\Debug\pry.BaseDeDatos.LopezV.csproj.CoreCompileInputs.cache
+C:\Users\valen\Source\Repos\pry.BaseDeDatos\pry.BaseDeDatos.LopezV\obj\Debug\pry.BaseDeDatos.LopezV.exe
+C:\Users\valen\Source\Repos\pry.BaseDeDatos\pry.BaseDeDatos.LopezV\obj\Debug\pry.BaseDeDatos.LopezV.pdb
+C:\Users\Alumno\Source\Repos\pry.BaseDeDatos\pry.BaseDeDatos.LopezV\bin\Debug\pry.BaseDeDatos.LopezV.exe.config
+C:\Users\Alumno\Source\Repos\pry.BaseDeDatos\pry.BaseDeDatos.LopezV\bin\Debug\pry.BaseDeDatos.LopezV.exe
+C:\Users\Alumno\Source\Repos\pry.BaseDeDatos\pry.BaseDeDatos.LopezV\bin\Debug\pry.BaseDeDatos.LopezV.pdb
+C:\Users\Alumno\Source\Repos\pry.BaseDeDatos\pry.BaseDeDatos.LopezV\obj\Debug\pry.BaseDeDatos.LopezV.csproj.AssemblyReference.cache
+C:\Users\Alumno\Source\Repos\pry.BaseDeDatos\pry.BaseDeDatos.LopezV\obj\Debug\pry.BaseDeDatos.LopezV.frmConsultaDeportista.resources
+C:\Users\Alumno\Source\Repos\pry.BaseDeDatos\pry.BaseDeDatos.LopezV\obj\Debug\pry.BaseDeDatos.LopezV.frmConsultaEntrenador.resources
+C:\Users\Alumno\Source\Repos\pry.BaseDeDatos\pry.BaseDeDatos.LopezV\obj\Debug\pry.BaseDeDatos.LopezV.frmPrincipal.resources
+C:\Users\Alumno\Source\Repos\pry.BaseDeDatos\pry.BaseDeDatos.LopezV\obj\Debug\pry.BaseDeDatos.LopezV.frmRegistroDeportista.resources
+C:\Users\Alumno\Source\Repos\pry.BaseDeDatos\pry.BaseDeDatos.LopezV\obj\Debug\pry.BaseDeDatos.LopezV.frmRegistroEntrenador.resources
+C:\Users\Alumno\Source\Repos\pry.BaseDeDatos\pry.BaseDeDatos.LopezV\obj\Debug\pry.BaseDeDatos.LopezV.Properties.Resources.resources
+C:\Users\Alumno\Source\Repos\pry.BaseDeDatos\pry.BaseDeDatos.LopezV\obj\Debug\pry.BaseDeDatos.LopezV.csproj.GenerateResource.cache
+C:\Users\Alumno\Source\Repos\pry.BaseDeDatos\pry.BaseDeDatos.LopezV\obj\Debug\pry.BaseDeDatos.LopezV.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\Source\Repos\pry.BaseDeDatos\pry.BaseDeDatos.LopezV\obj\Debug\pry.BaseDeDatos.LopezV.exe
+C:\Users\Alumno\Source\Repos\pry.BaseDeDatos\pry.BaseDeDatos.LopezV\obj\Debug\pry.BaseDeDatos.LopezV.pdb
+C:\Users\valen\OneDrive\Escritorio\repositorio.SPBaseDeDatos\pry.BaseDeDatos.LopezV\bin\Debug\pry.BaseDeDatos.LopezV.exe.config
+C:\Users\valen\OneDrive\Escritorio\repositorio.SPBaseDeDatos\pry.BaseDeDatos.LopezV\bin\Debug\pry.BaseDeDatos.LopezV.exe
+C:\Users\valen\OneDrive\Escritorio\repositorio.SPBaseDeDatos\pry.BaseDeDatos.LopezV\bin\Debug\pry.BaseDeDatos.LopezV.pdb
+C:\Users\valen\OneDrive\Escritorio\repositorio.SPBaseDeDatos\pry.BaseDeDatos.LopezV\obj\Debug\pry.BaseDeDatos.LopezV.csproj.AssemblyReference.cache
+C:\Users\valen\OneDrive\Escritorio\repositorio.SPBaseDeDatos\pry.BaseDeDatos.LopezV\obj\Debug\pry.BaseDeDatos.LopezV.csproj.SuggestedBindingRedirects.cache
+C:\Users\valen\OneDrive\Escritorio\repositorio.SPBaseDeDatos\pry.BaseDeDatos.LopezV\obj\Debug\pry.BaseDeDatos.LopezV.frmConsultaDeportista.resources
+C:\Users\valen\OneDrive\Escritorio\repositorio.SPBaseDeDatos\pry.BaseDeDatos.LopezV\obj\Debug\pry.BaseDeDatos.LopezV.frmConsultaEntrenador.resources
+C:\Users\valen\OneDrive\Escritorio\repositorio.SPBaseDeDatos\pry.BaseDeDatos.LopezV\obj\Debug\pry.BaseDeDatos.LopezV.frmPrincipal.resources
+C:\Users\valen\OneDrive\Escritorio\repositorio.SPBaseDeDatos\pry.BaseDeDatos.LopezV\obj\Debug\pry.BaseDeDatos.LopezV.frmRegistroDeportista.resources
+C:\Users\valen\OneDrive\Escritorio\repositorio.SPBaseDeDatos\pry.BaseDeDatos.LopezV\obj\Debug\pry.BaseDeDatos.LopezV.frmRegistroEntrenador.resources
+C:\Users\valen\OneDrive\Escritorio\repositorio.SPBaseDeDatos\pry.BaseDeDatos.LopezV\obj\Debug\pry.BaseDeDatos.LopezV.Properties.Resources.resources
+C:\Users\valen\OneDrive\Escritorio\repositorio.SPBaseDeDatos\pry.BaseDeDatos.LopezV\obj\Debug\pry.BaseDeDatos.LopezV.csproj.GenerateResource.cache
+C:\Users\valen\OneDrive\Escritorio\repositorio.SPBaseDeDatos\pry.BaseDeDatos.LopezV\obj\Debug\pry.BaseDeDatos.LopezV.csproj.CoreCompileInputs.cache
+C:\Users\valen\OneDrive\Escritorio\repositorio.SPBaseDeDatos\pry.BaseDeDatos.LopezV\obj\Debug\pry.BaseDeDatos.LopezV.exe
+C:\Users\valen\OneDrive\Escritorio\repositorio.SPBaseDeDatos\pry.BaseDeDatos.LopezV\obj\Debug\pry.BaseDeDatos.LopezV.pdb
+C:\Users\valen\OneDrive\Escritorio\repositorio.SPBaseDeDatos\pry.BaseDeDatos.LopezV\obj\Debug\pry.BaseDeDatos.LopezV.frmModificarDeportista.resources
+C:\Users\valen\OneDrive\Escritorio\repositorio.SPBaseDeDatos\pry.BaseDeDatos.LopezV\obj\Debug\pry.BaseDeDatos.LopezV.frmModificarEntrenador.resources
+C:\Users\valen\OneDrive\Escritorio\repositorio.SPBaseDeDatos\pry.BaseDeDatos.LopezV\obj\Debug\pry.BaseDeDatos.LopezV.frmEliminarDeportista.resources
+C:\Users\valen\OneDrive\Escritorio\repositorio.SPBaseDeDatos\pry.BaseDeDatos.LopezV\obj\Debug\pry.BaseDeDatos.LopezV.frmEliminarEntrenador.resources
+C:\Users\valen\source\repos\pry.BaseDeDatos\repos sp base d datos\pry.BaseDeDatos.LopezV\bin\Debug\pry.BaseDeDatos.LopezV.exe.config
+C:\Users\valen\source\repos\pry.BaseDeDatos\repos sp base d datos\pry.BaseDeDatos.LopezV\bin\Debug\pry.BaseDeDatos.LopezV.exe
+C:\Users\valen\source\repos\pry.BaseDeDatos\repos sp base d datos\pry.BaseDeDatos.LopezV\bin\Debug\pry.BaseDeDatos.LopezV.pdb
+C:\Users\valen\source\repos\pry.BaseDeDatos\repos sp base d datos\pry.BaseDeDatos.LopezV\obj\Debug\pry.BaseDeDatos.LopezV.csproj.AssemblyReference.cache
+C:\Users\valen\source\repos\pry.BaseDeDatos\repos sp base d datos\pry.BaseDeDatos.LopezV\obj\Debug\pry.BaseDeDatos.LopezV.csproj.SuggestedBindingRedirects.cache
+C:\Users\valen\source\repos\pry.BaseDeDatos\repos sp base d datos\pry.BaseDeDatos.LopezV\obj\Debug\pry.BaseDeDatos.LopezV.frmConsultaDeportista.resources
+C:\Users\valen\source\repos\pry.BaseDeDatos\repos sp base d datos\pry.BaseDeDatos.LopezV\obj\Debug\pry.BaseDeDatos.LopezV.frmConsultaEntrenador.resources
+C:\Users\valen\source\repos\pry.BaseDeDatos\repos sp base d datos\pry.BaseDeDatos.LopezV\obj\Debug\pry.BaseDeDatos.LopezV.frmEliminarDeportista.resources
+C:\Users\valen\source\repos\pry.BaseDeDatos\repos sp base d datos\pry.BaseDeDatos.LopezV\obj\Debug\pry.BaseDeDatos.LopezV.frmEliminarEntrenador.resources
+C:\Users\valen\source\repos\pry.BaseDeDatos\repos sp base d datos\pry.BaseDeDatos.LopezV\obj\Debug\pry.BaseDeDatos.LopezV.frmModificarDeportista.resources
+C:\Users\valen\source\repos\pry.BaseDeDatos\repos sp base d datos\pry.BaseDeDatos.LopezV\obj\Debug\pry.BaseDeDatos.LopezV.frmModificarEntrenador.resources
+C:\Users\valen\source\repos\pry.BaseDeDatos\repos sp base d datos\pry.BaseDeDatos.LopezV\obj\Debug\pry.BaseDeDatos.LopezV.frmPrincipal.resources
+C:\Users\valen\source\repos\pry.BaseDeDatos\repos sp base d datos\pry.BaseDeDatos.LopezV\obj\Debug\pry.BaseDeDatos.LopezV.frmRegistroDeportista.resources
+C:\Users\valen\source\repos\pry.BaseDeDatos\repos sp base d datos\pry.BaseDeDatos.LopezV\obj\Debug\pry.BaseDeDatos.LopezV.frmRegistroEntrenador.resources
+C:\Users\valen\source\repos\pry.BaseDeDatos\repos sp base d datos\pry.BaseDeDatos.LopezV\obj\Debug\pry.BaseDeDatos.LopezV.Properties.Resources.resources
+C:\Users\valen\source\repos\pry.BaseDeDatos\repos sp base d datos\pry.BaseDeDatos.LopezV\obj\Debug\pry.BaseDeDatos.LopezV.csproj.GenerateResource.cache
+C:\Users\valen\source\repos\pry.BaseDeDatos\repos sp base d datos\pry.BaseDeDatos.LopezV\obj\Debug\pry.BaseDeDatos.LopezV.csproj.CoreCompileInputs.cache
+C:\Users\valen\source\repos\pry.BaseDeDatos\repos sp base d datos\pry.BaseDeDatos.LopezV\obj\Debug\pry.BaseDeDatos.LopezV.exe
+C:\Users\valen\source\repos\pry.BaseDeDatos\repos sp base d datos\pry.BaseDeDatos.LopezV\obj\Debug\pry.BaseDeDatos.LopezV.pdb
+C:\Users\valen\OneDrive\Escritorio\REPOS.BASEDTS\pry.BaseDeDatos.LopezV\bin\Debug\pry.BaseDeDatos.LopezV.exe.config
+C:\Users\valen\OneDrive\Escritorio\REPOS.BASEDTS\pry.BaseDeDatos.LopezV\bin\Debug\pry.BaseDeDatos.LopezV.exe
+C:\Users\valen\OneDrive\Escritorio\REPOS.BASEDTS\pry.BaseDeDatos.LopezV\bin\Debug\pry.BaseDeDatos.LopezV.pdb
+C:\Users\valen\OneDrive\Escritorio\REPOS.BASEDTS\pry.BaseDeDatos.LopezV\obj\Debug\pry.BaseDeDatos.LopezV.csproj.AssemblyReference.cache
+C:\Users\valen\OneDrive\Escritorio\REPOS.BASEDTS\pry.BaseDeDatos.LopezV\obj\Debug\pry.BaseDeDatos.LopezV.csproj.SuggestedBindingRedirects.cache
+C:\Users\valen\OneDrive\Escritorio\REPOS.BASEDTS\pry.BaseDeDatos.LopezV\obj\Debug\pry.BaseDeDatos.LopezV.frmConsultaDeportista.resources
+C:\Users\valen\OneDrive\Escritorio\REPOS.BASEDTS\pry.BaseDeDatos.LopezV\obj\Debug\pry.BaseDeDatos.LopezV.frmConsultaEntrenador.resources
+C:\Users\valen\OneDrive\Escritorio\REPOS.BASEDTS\pry.BaseDeDatos.LopezV\obj\Debug\pry.BaseDeDatos.LopezV.frmEliminarDeportista.resources
+C:\Users\valen\OneDrive\Escritorio\REPOS.BASEDTS\pry.BaseDeDatos.LopezV\obj\Debug\pry.BaseDeDatos.LopezV.frmEliminarEntrenador.resources
+C:\Users\valen\OneDrive\Escritorio\REPOS.BASEDTS\pry.BaseDeDatos.LopezV\obj\Debug\pry.BaseDeDatos.LopezV.frmModificarDeportista.resources
+C:\Users\valen\OneDrive\Escritorio\REPOS.BASEDTS\pry.BaseDeDatos.LopezV\obj\Debug\pry.BaseDeDatos.LopezV.frmModificarEntrenador.resources
+C:\Users\valen\OneDrive\Escritorio\REPOS.BASEDTS\pry.BaseDeDatos.LopezV\obj\Debug\pry.BaseDeDatos.LopezV.frmPrincipal.resources
+C:\Users\valen\OneDrive\Escritorio\REPOS.BASEDTS\pry.BaseDeDatos.LopezV\obj\Debug\pry.BaseDeDatos.LopezV.frmRegistroDeportista.resources
+C:\Users\valen\OneDrive\Escritorio\REPOS.BASEDTS\pry.BaseDeDatos.LopezV\obj\Debug\pry.BaseDeDatos.LopezV.frmRegistroEntrenador.resources
+C:\Users\valen\OneDrive\Escritorio\REPOS.BASEDTS\pry.BaseDeDatos.LopezV\obj\Debug\pry.BaseDeDatos.LopezV.Properties.Resources.resources
+C:\Users\valen\OneDrive\Escritorio\REPOS.BASEDTS\pry.BaseDeDatos.LopezV\obj\Debug\pry.BaseDeDatos.LopezV.csproj.GenerateResource.cache
+C:\Users\valen\OneDrive\Escritorio\REPOS.BASEDTS\pry.BaseDeDatos.LopezV\obj\Debug\pry.BaseDeDatos.LopezV.csproj.CoreCompileInputs.cache
+C:\Users\valen\OneDrive\Escritorio\REPOS.BASEDTS\pry.BaseDeDatos.LopezV\obj\Debug\pry.BaseDeDatos.LopezV.exe
+C:\Users\valen\OneDrive\Escritorio\REPOS.BASEDTS\pry.BaseDeDatos.LopezV\obj\Debug\pry.BaseDeDatos.LopezV.pdb
+C:\Users\Alumno\Source\Repos\pry.BaseDeDatos\pry.BaseDeDatos.LopezV\obj\Debug\pry.BaseDeDatos.LopezV.frmEliminarDeportista.resources
+C:\Users\Alumno\Source\Repos\pry.BaseDeDatos\pry.BaseDeDatos.LopezV\obj\Debug\pry.BaseDeDatos.LopezV.frmEliminarEntrenador.resources
+C:\Users\Alumno\Source\Repos\pry.BaseDeDatos\pry.BaseDeDatos.LopezV\obj\Debug\pry.BaseDeDatos.LopezV.frmModificarDeportista.resources
+C:\Users\Alumno\Source\Repos\pry.BaseDeDatos\pry.BaseDeDatos.LopezV\obj\Debug\pry.BaseDeDatos.LopezV.frmModificarEntrenador.resources
+C:\Users\valen\OneDrive\Escritorio\Repos-TP-BaseDatos\pry.BaseDeDatos.LopezV\bin\Debug\pry.BaseDeDatos.LopezV.exe.config
+C:\Users\valen\OneDrive\Escritorio\Repos-TP-BaseDatos\pry.BaseDeDatos.LopezV\bin\Debug\pry.BaseDeDatos.LopezV.exe
+C:\Users\valen\OneDrive\Escritorio\Repos-TP-BaseDatos\pry.BaseDeDatos.LopezV\bin\Debug\pry.BaseDeDatos.LopezV.pdb
+C:\Users\valen\OneDrive\Escritorio\Repos-TP-BaseDatos\pry.BaseDeDatos.LopezV\obj\Debug\pry.BaseDeDatos.LopezV.csproj.AssemblyReference.cache
+C:\Users\valen\OneDrive\Escritorio\Repos-TP-BaseDatos\pry.BaseDeDatos.LopezV\obj\Debug\pry.BaseDeDatos.LopezV.csproj.SuggestedBindingRedirects.cache
+C:\Users\valen\OneDrive\Escritorio\Repos-TP-BaseDatos\pry.BaseDeDatos.LopezV\obj\Debug\pry.BaseDeDatos.LopezV.frmConsultaDeportista.resources
+C:\Users\valen\OneDrive\Escritorio\Repos-TP-BaseDatos\pry.BaseDeDatos.LopezV\obj\Debug\pry.BaseDeDatos.LopezV.frmConsultaEntrenador.resources
+C:\Users\valen\OneDrive\Escritorio\Repos-TP-BaseDatos\pry.BaseDeDatos.LopezV\obj\Debug\pry.BaseDeDatos.LopezV.frmEliminarDeportista.resources
+C:\Users\valen\OneDrive\Escritorio\Repos-TP-BaseDatos\pry.BaseDeDatos.LopezV\obj\Debug\pry.BaseDeDatos.LopezV.frmEliminarEntrenador.resources
+C:\Users\valen\OneDrive\Escritorio\Repos-TP-BaseDatos\pry.BaseDeDatos.LopezV\obj\Debug\pry.BaseDeDatos.LopezV.frmModificarDeportista.resources
+C:\Users\valen\OneDrive\Escritorio\Repos-TP-BaseDatos\pry.BaseDeDatos.LopezV\obj\Debug\pry.BaseDeDatos.LopezV.frmModificarEntrenador.resources
+C:\Users\valen\OneDrive\Escritorio\Repos-TP-BaseDatos\pry.BaseDeDatos.LopezV\obj\Debug\pry.BaseDeDatos.LopezV.frmPrincipal.resources
+C:\Users\valen\OneDrive\Escritorio\Repos-TP-BaseDatos\pry.BaseDeDatos.LopezV\obj\Debug\pry.BaseDeDatos.LopezV.frmRegistroDeportista.resources
+C:\Users\valen\OneDrive\Escritorio\Repos-TP-BaseDatos\pry.BaseDeDatos.LopezV\obj\Debug\pry.BaseDeDatos.LopezV.frmRegistroEntrenador.resources
+C:\Users\valen\OneDrive\Escritorio\Repos-TP-BaseDatos\pry.BaseDeDatos.LopezV\obj\Debug\pry.BaseDeDatos.LopezV.Properties.Resources.resources
+C:\Users\valen\OneDrive\Escritorio\Repos-TP-BaseDatos\pry.BaseDeDatos.LopezV\obj\Debug\pry.BaseDeDatos.LopezV.csproj.GenerateResource.cache
+C:\Users\valen\OneDrive\Escritorio\Repos-TP-BaseDatos\pry.BaseDeDatos.LopezV\obj\Debug\pry.BaseDeDatos.LopezV.csproj.CoreCompileInputs.cache
+C:\Users\valen\OneDrive\Escritorio\Repos-TP-BaseDatos\pry.BaseDeDatos.LopezV\obj\Debug\pry.BaseDeDatos.LopezV.exe
+C:\Users\valen\OneDrive\Escritorio\Repos-TP-BaseDatos\pry.BaseDeDatos.LopezV\obj\Debug\pry.BaseDeDatos.LopezV.pdb
+C:\Users\Alumno\Source\Repos\pry.TPDeportes\pry.BaseDeDatos.LopezV\bin\Debug\pry.BaseDeDatos.LopezV.exe.config
+C:\Users\Alumno\Source\Repos\pry.TPDeportes\pry.BaseDeDatos.LopezV\bin\Debug\pry.BaseDeDatos.LopezV.exe
+C:\Users\Alumno\Source\Repos\pry.TPDeportes\pry.BaseDeDatos.LopezV\bin\Debug\pry.BaseDeDatos.LopezV.pdb
+C:\Users\Alumno\Source\Repos\pry.TPDeportes\pry.BaseDeDatos.LopezV\obj\Debug\pry.BaseDeDatos.LopezV.csproj.AssemblyReference.cache
+C:\Users\Alumno\Source\Repos\pry.TPDeportes\pry.BaseDeDatos.LopezV\obj\Debug\pry.BaseDeDatos.LopezV.frmConsultaDeportista.resources
+C:\Users\Alumno\Source\Repos\pry.TPDeportes\pry.BaseDeDatos.LopezV\obj\Debug\pry.BaseDeDatos.LopezV.frmConsultaEntrenador.resources
+C:\Users\Alumno\Source\Repos\pry.TPDeportes\pry.BaseDeDatos.LopezV\obj\Debug\pry.BaseDeDatos.LopezV.frmEliminarDeportista.resources
+C:\Users\Alumno\Source\Repos\pry.TPDeportes\pry.BaseDeDatos.LopezV\obj\Debug\pry.BaseDeDatos.LopezV.frmEliminarEntrenador.resources
+C:\Users\Alumno\Source\Repos\pry.TPDeportes\pry.BaseDeDatos.LopezV\obj\Debug\pry.BaseDeDatos.LopezV.frmModificarDeportista.resources
+C:\Users\Alumno\Source\Repos\pry.TPDeportes\pry.BaseDeDatos.LopezV\obj\Debug\pry.BaseDeDatos.LopezV.frmModificarEntrenador.resources
+C:\Users\Alumno\Source\Repos\pry.TPDeportes\pry.BaseDeDatos.LopezV\obj\Debug\pry.BaseDeDatos.LopezV.frmPrincipal.resources
+C:\Users\Alumno\Source\Repos\pry.TPDeportes\pry.BaseDeDatos.LopezV\obj\Debug\pry.BaseDeDatos.LopezV.frmRegistroDeportista.resources
+C:\Users\Alumno\Source\Repos\pry.TPDeportes\pry.BaseDeDatos.LopezV\obj\Debug\pry.BaseDeDatos.LopezV.frmRegistroEntrenador.resources
+C:\Users\Alumno\Source\Repos\pry.TPDeportes\pry.BaseDeDatos.LopezV\obj\Debug\pry.BaseDeDatos.LopezV.Properties.Resources.resources
+C:\Users\Alumno\Source\Repos\pry.TPDeportes\pry.BaseDeDatos.LopezV\obj\Debug\pry.BaseDeDatos.LopezV.csproj.GenerateResource.cache
+C:\Users\Alumno\Source\Repos\pry.TPDeportes\pry.BaseDeDatos.LopezV\obj\Debug\pry.BaseDeDatos.LopezV.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\Source\Repos\pry.TPDeportes\pry.BaseDeDatos.LopezV\obj\Debug\pry.BaseDeDatos.LopezV.exe
+C:\Users\Alumno\Source\Repos\pry.TPDeportes\pry.BaseDeDatos.LopezV\obj\Debug\pry.BaseDeDatos.LopezV.pdb
